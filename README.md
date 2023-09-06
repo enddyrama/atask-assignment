@@ -1,6 +1,6 @@
 # GitHub User Search and Repository Viewer
 
-![GitHub User Search and Repository Viewer](github-logo.png)
+https://enddyrama.github.io/atask-assignment/
 
 ## Description
 
@@ -49,6 +49,8 @@ npm start
 ```
 
 7. Open your browser and go to `http://localhost:3000` to use the application.
+
+8. See `https://github.com/gitname/react-gh-pages` to host the App.
 
 ## Usage
 
