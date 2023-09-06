@@ -18,13 +18,14 @@ const AppRouter = () => {
             <CustomSidebar />
             <Layout>
                 {/* <Header style={{ padding: 0, background: colorBgContainer }} /> */}
-                <Content style={{ margin: '20px'}}>
-                    <BrowserRouter>
+                <Content style={{ margin: '20px' }}>
+                    <PageDashboard />
+                    {/* <BrowserRouter>
                         <Routes>
                             <Route path="/" element={<PageDashboard />} />
                             <Route path="/detail" element={<PageUserDetail />} />
                         </Routes>
-                    </BrowserRouter>
+                    </BrowserRouter> */}
                 </Content>
                 <Footer style={{ textAlign: 'center' }}>Atask Assignment ©2023 Created by Matt Jambrong</Footer>
             </Layout>
