@@ -1,0 +1,9 @@
+.App {
+  /* text-align: center; */
+}
+
+@media (max-width: 768px) {
+  .custom-table .url-column {
+    display: none;
+  }
+}
