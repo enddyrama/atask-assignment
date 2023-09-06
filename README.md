@@ -18,9 +18,9 @@ This React application integrates with the GitHub API to allow users to search f
 
 - React: A JavaScript library for building user interfaces.
 
-- GitHub API: Used to fetch user information and repositories.
+- TypeScript: A statically typed superset of JavaScript that enhances code quality and developer productivity.
 
-- Axios: A promise-based HTTP client for making requests to the GitHub API.
+- GitHub API: Used to fetch user information and repositories.
 
 ## Installation
 
