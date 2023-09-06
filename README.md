@@ -48,9 +48,9 @@ npm install
 npm start
 ```
 
-7. Open your browser and go to `http://localhost:3000` to use the application.
+5. Open your browser and go to `http://localhost:3000` to use the application.
 
-8. See `https://github.com/gitname/react-gh-pages` to host the App.
+6. See `https://github.com/gitname/react-gh-pages` to host the App.
 
 ## Usage
 
